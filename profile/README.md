@@ -1,6 +1,8 @@
 # TrendAI
 
-![Image](https://i.ibb.co/DDLkkgCb/169shots-so.png)
+<a href="#">
+    <img width="1024" alt="TrendAi" src="https://i.ibb.co/DDLkkgCb/169shots-so.png">
+</a>
 
 ## Overview
 
