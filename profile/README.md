@@ -2,6 +2,10 @@
 
 News application with AI-powered search, personalized recommendations, and chatbot built during my internship at SNRT.
 
+## Demo
+
+![Image](https://i.ibb.co/DDLkkgCb/169shots-so.png)
+
 ## Overview
 
 TrendAI is a news platform that uses semantic search and user behavior analysis to deliver relevant content. The app provides three main features: recommendations based on reading history, semantic search across articles and videos, and an AI chatbot that answers questions about the news.
