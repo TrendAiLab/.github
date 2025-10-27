@@ -1,7 +1,7 @@
 # TrendAI
 
 <a href="#">
-    <img src="https://i.postimg.cc/N0sZZVxQ/169shots-so.png" width="80%" alt="Demo Image">
+    <img src="https://i.postimg.cc/N0sZZVxQ/169shots-so.png" alt="Demo Image">
 </a>
 
 ## Overview
