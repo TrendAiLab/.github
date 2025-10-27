@@ -1,9 +1,5 @@
 # TrendAI
 
-News application with AI-powered search, personalized recommendations, and chatbot built during my internship at SNRT.
-
-## Demo
-
 ![Image](https://i.ibb.co/DDLkkgCb/169shots-so.png)
 
 ## Overview
